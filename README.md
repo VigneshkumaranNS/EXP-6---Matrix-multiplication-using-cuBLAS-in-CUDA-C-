@@ -1,7 +1,7 @@
 # EXP-6---Matrix-multiplication-using-cuBLAS-in-CUDA-C-
 <h3>NAME : Vignesh Kumaran N S</h3>
 <h3>REGISTER NO : 212222230171</h3>
-<h3>EX. NO 4 : </h3>
+<h3>EX. NO 6 : </h3>
 <h3>DATE : 9.10.2025</h3>
 <h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
   
